@@ -78,7 +78,7 @@ public class GoogleHashCode {
 		
 		long endTime = System.nanoTime();
 		
-		System.out.println("Time: " + ((endTime - startTime) / 1000000.0) + " seconds");
+		System.out.println("Running time: " + ((endTime - startTime) / 1000000.0) + " seconds");
 
 	}
 
